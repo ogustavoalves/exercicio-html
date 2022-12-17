@@ -10,19 +10,19 @@
 			"path": "../../Desafio-2-1"
 		},
 		{
-			"path": "../../html pt I"
-		},
-		{
 			"path": "../../7-days-of-code-1"
-		},
-		{
-			"path": "../../teste-javascript"
 		},
 		{
 			"path": "../../Teste-Flask"
 		},
 		{
+			"path": "../../barbearia-alura"
+		},
+		{
 			"path": "../../API_MirageGroup"
+		},
+		{
+			"path": "../../desafioQuatro"
 		}
 	],
 	"settings": {}

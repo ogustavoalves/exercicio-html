@@ -133,7 +133,7 @@ nav#menu a {
 
 nav#menu a:hover {
 	color: #FFF;
-	text-decoration: overline;
+	text-decoration: none;
 
 }
 

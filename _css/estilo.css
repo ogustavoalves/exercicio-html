@@ -92,7 +92,7 @@ figure.foto-legenda:hover figcaption {
 	opacity: 1;
 }
 
-/*Formatacao do Menu*/
+	/*Formatação do Menu*/
 nav#menu {
 	display: block;
 }
@@ -137,6 +137,7 @@ nav#menu a:hover {
 
 }
 
+	/* Formatação Body */
 section#corpo {
 	display: block;
 	width: 570px;
@@ -241,6 +242,10 @@ aside#lateral h2 {
 	color: #fff;
 	padding: 5px;
 	margin-top: 5px;
+}
+
+video#video-one-day {
+	width: 350px;
 }
 
 footer#rodape {

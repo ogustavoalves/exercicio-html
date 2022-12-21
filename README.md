@@ -1,7 +1,10 @@
 <h3>Exercício do curso "HTML5" da plataforma "Curso em Vídeo"</h3>
 
 <div align="center"><h1>"Projeto Google Glass"</h1></div>
-
+<div align="center">
+  <h3><a href="https://euphonious-otter-aa34cd.netlify.app">Clique aqui para ir ao site</a></h3>
+  <p>obs: Site hospetado através do Netfily apenas para fins de demonstração. A perfomance pode não ser das melhores</p>
+</div>
 <h2>Capturas de Tela do Projeto</h2>
 <div align="center">
   <p name="">Cabeçalho</p>
